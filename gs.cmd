@@ -13,6 +13,6 @@ git add .
 git commit -m %c%
 rem la primera vez
 rem git push --set-upstream https://github.com/Jose-Garcia-Fernadez/PEC1.git master
-git push https://github.com/Jose-Garcia-Fernadez/PEC-1.git
+git push https://github.com/Jose-Garcia-Fernadez/PEC1.git
 
 echo %c%
