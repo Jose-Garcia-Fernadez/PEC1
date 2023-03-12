@@ -1,0 +1,2 @@
+!function(){function e(e){document.title=(document.all?event.x:e.pageX)+" "+document.documentElement.clientWidth+"  "+(document.all?event.y:e.pageY)+" "+document.documentElement.clientHeight}function n(e){var n=(document.all?event.x:e.pageX)+"\n"+(document.all?event.y:e.pageY);const t=document.createElement("textarea");t.value=n,document.body.appendChild(t),t.select(),document.execCommand("copy"),document.body.removeChild(t)}window.onload=function(){document.onmousemove=e,document.onclick=n}}();
+//# sourceMappingURL=p1.9475af37.js.map
